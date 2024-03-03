@@ -1,0 +1,8 @@
+@media only screen and(max-width: 1140px){
+    .nav-list{
+        flex-direction: column;
+    }
+    .nav-bar{
+        flex-direction: column;
+    }
+}
